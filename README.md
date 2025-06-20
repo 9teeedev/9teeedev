@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, Content Creator, Instructor
 --------------------------------------
 <img src="https://komarev.com/ghpvc/?username=9teeedev&style=flat-square&color=blue" alt="account counter"/>
-Teaching web development and programming stuff. Never Stop Learning.
+AI Powered
 
 * 🌍  I'm based in I'm based in Bangkok
 * 🖥️  See my portfolio at [9teeedev.github.io](http://9teeedev.github.io)

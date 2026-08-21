@@ -6,7 +6,7 @@ Developer, Content Creator, Instructor, AI USER
 <img src="https://komarev.com/ghpvc/?username=9teeedev&style=flat-square&color=blue" alt="account counter"/>
 AI Powered
 
-* 🌍  I'm based in I'm based in Bangkok
+* 🌍  I'm based in I'm based in [9tee.dev](https://9tee.dev)
 * 🖥️  See my portfolio at [9teeedev.github.io](http://9teeedev.github.io)
 * ✉️  You can contact me at [teezeezax2@gmail.com](mailto:teezeezax2@gmail.com)
 * 🧠  I'm learning Next.js, PHP, Tailwind, DATABASE, Python, HTML, CSS, JS, Git, Figma, REST API
